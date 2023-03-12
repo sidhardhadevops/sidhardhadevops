@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi, I'm Sidhardha 👋 👩🏾‍💻
 
-<!--
-**sidhardhadevops/sidhardhadevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Azure Cloud Engineer and a DevOps practitioner.who is passionate about Cloud Engineering,Site Reliability Engineering and building community.
 
-Here are some ideas to get you started:
+👀 I’m interested in System Design,Terraform, Azure Architecture, Azure Security,GitOps,Terraform,Docker,Kubernetes,Python.
+🥅 2023 Goals: To Upskill & Cross-skill accross areas of Interest. 
+⚡ Fun fact: I’m am huge Formula 1 and Football Fan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Highlights🌟
+
+HashiCorp Certified: Terraform Associate (002).
+Microsoft Certified: DevOps Engineer Expert.
+Microsoft Certified: Azure Administrator Associate.
+
+
